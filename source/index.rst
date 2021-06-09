@@ -28,10 +28,16 @@ all rights reserved.
 Analytical Assessment of e-Cigarettes (version : |version|)
 ============================
 
-e-Cigarettes::
-   在2015年的时候已经成为开源项目, 自从那之后它已经成为Github中starred最多的机器学习库. TensorFlow的受欢迎度主要归功于它能帮助程序员创造计算图(computational graphs), 自动微分 (automatic differentation) 和 可定制性 (customizability). 由于这些特性，TensorFlow是一个强有力的灵活性高的工具,  用于解决很多机器学习的问题. 
+Cigarette smoking has had a devastating effect on public health world-wide over the past 100 years and will continue to do so throughout the current century unless there is a substantial reduction in the prevalence of smoking. Compulsive smoking is driven by addiction to nicotine, but most of the harm from smoking is caused by exposure to tobacco
+combustion products. For many years, tobacco researchers and policy experts have entertained the idea that a clean source of nicotine that could be inhaled and provide similar rewarding effects as a cigarette might entice smokers away from cigarette smoking and lead either to quitting smoking or to long-term nicotine use without incurring the
+harm from tobacco combustion toxicants.
 
-本教程阐述很多机器学习算法, 以及如何把它们应用到实际情况中, 以及如何诠释所得到的结果.
+e-Cigarettes are nicotine delivery devices that deliver nicotine with- out combusting tobacco. These are battery-powered devices that heat a liquid composed of propylene glycol and/or vegetable glycerin, nicotine, and flavoring to form a vapor which rapidly aerosolizes and is inhaled like cigarette smoke. e-Cigarettes could be beneficial to public
+health if they help smokers quit smoking and possibly (at least for some health effects) reduce harm for those who smoke fewer cigarettes while using e-Cigarettes. On the other hand, there are several concerns about adverse effects of e-Cigarette use on a population level, including attracting youth and serving as a gateway to nicotine addiction
+and cigarette smoking, dual use with cigarettes resulting in lower rates of quitting smoking, renormalizing nicotine use and undermining smoke-free air legislation, and/or diverting smokers from proven smoking cessation treatment sessions.
+
+One of the determinants of the net effect of e-Cigarettes on public health is the benefit versus harms, including the direct toxicity of e-Cigarette use. Assessing the toxicity of e-Cigarettes requires an understanding of the design and variability in device components and constituents of e-liquids and aerosols, both chemicals and particulates.
+Biomarkers of exposure to e-Cigarette toxicants in people are critical for extrapolating machine-tested e-Cigarette emission findings to actual human exposures.
 
 .. important::
 
