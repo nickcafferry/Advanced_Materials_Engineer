@@ -39,128 +39,68 @@ One of the determinants of the net effect of e-Cigarettes on public health is th
 
 .. important::
 
-   - :ref:`Introduction to e-Cigarettes <label1>`, e-Cigarettes were recently invented and developed as an alternative-to-smoking method of nicotine intake. They are electronic devices with three main parts: a battery, an atomizer composed of a wick and metal coil, and a liquid (“e-liquid”) stored inside the atomizer. The function is to aerosolize the liquid, producing a visible aerosol which the user inhales. This is achieved by heating the metal coil inside the atomizer by an electrical current from the battery. e-Cigarettes are commonly called electronic nicotine-delivery devices (ENDS). However, because they can be used with non-nicotine e-liquids, the term ENDS is inaccu- rate and does not represent the whole spectrum of e-Cigarette devices and use patterns.
+   - :ref:`Chapter 1: Introduction to e-Cigarettes <label1>`, e-Cigarettes were recently invented and developed as an alternative-to-smoking method of nicotine intake. They are electronic devices with three main parts: a battery, an atomizer composed of a wick and metal coil, and a liquid (“e-liquid”) stored inside the atomizer. The function is to aerosolize the liquid, producing a visible aerosol which the user inhales. This is achieved by heating the metal coil inside the atomizer by an electrical current from the battery. e-Cigarettes are commonly called electronic nicotine-delivery devices (ENDS). However, because they can be used with non-nicotine e-liquids, the term ENDS is inaccu- rate and does not represent the whole spectrum of e-Cigarette devices and use patterns.
    
-   - :ref:`Analytical Testing of e-Cigarette Aerosol <label2>`, In the preparation of this chapter, the author read approximately 150 peer-reviewed publications and a large number of recent conference proceedings. Two things became apparent: (1) :strong:`electronic nictine delivery systems (ENDS) are evolving rapidly as manufacturers innovate, and the peer-reviewed literature does not adequately reflect products on th market.` ``Solution``:  The recent conference proceedings are cited to fill gaps in the literature (2) :strong:`Published findings of analytical testing and analysis of ENDS tend to show thermal decomposition products at either very low or very high levels, with little agreement in the middle.`  ``Solution``: This issue can be only addressed only when required to highlight differences in testing methodologies.
+   - :ref:`Chapter 2: Analytical Testing of e-Cigarette Aerosol <label2>`, In the preparation of this chapter, the author read approximately 150 peer-reviewed publications and a large number of recent conference proceedings. Two things became apparent: (1) :strong:`electronic nictine delivery systems (ENDS) are evolving rapidly as manufacturers innovate, and the peer-reviewed literature does not adequately reflect products on th market.` ``Solution``:  The recent conference proceedings are cited to fill gaps in the literature (2) :strong:`Published findings of analytical testing and analysis of ENDS tend to show thermal decomposition products at either very low or very high levels, with little agreement in the middle.`  ``Solution``: This issue can be only addressed only when required to highlight differences in testing methodologies.
    
-   - :ref:`Exposures to e-Cigarette Vapor <label3>`, This chapter presents a review of published data and new data collected by RTI International to provide the reader a perspective on :strong:`the sources and external factors that influence the magnitude of exposure to e-Cigarette vapor. ` The authour reviewed over 100 published articles from the e-Cigarette, conventional cigarette, and aerosol science fields. Articles were selected that have data to help advance our understanding of :strong:`user`, :strong:`secondary`, :strong:`tertiary exposures`. Vapors includes both the particles and gases produced by an e-Cigarette. Particles and aerosols are used synonymously following the definition by Hinds: "An aerosol is defined in its simplest form as a collection of solid or liquid particles in a gas."
+   - :ref:`Chapter 3: Exposures to e-Cigarette Vapor <label3>`, This chapter presents a review of published data and new data collected by RTI International to provide the reader a perspective on :strong:`the sources and external factors that influence the magnitude of exposure to e-Cigarette vapor. ` The authour reviewed over 100 published articles from the e-Cigarette, conventional cigarette, and aerosol science fields. Articles were selected that have data to help advance our understanding of :strong:`user`, :strong:`secondary`, :strong:`tertiary exposures`. Vapors includes both the particles and gases produced by an e-Cigarette. Particles and aerosols are used synonymously following the definition by Hinds: "An aerosol is defined in its simplest form as a collection of solid or liquid particles in a gas."
    
-   - :ref:`第四章: 支持向量机 (Support Vector Machine) <label4>`, 介绍支持向量机 (SVMs) 然后展示如何用tensorflow去运用线性SVMs, 非线性SVMs和多类SVMs.
+   - :ref:`Chapter 4: Biomarkers for Assessment of Chemical Exposures From e-Cigarette Emissions <label4>`, A workshop held by the U.S. National Institutes of Health entitled "NIH Electronic Cigarette Workshop: Developing a Research Agenda" concluded that :strong:`"studies on the acute use of e-Cigarette will require urine or plasma biomarkers that can provide an objective indicator of dose"`. Biomarkers of exposure, which are usually metabolites of specific toxicants or carcinogens, have the advantage of bypassing many of the uncertanties associated with measurment of emissions from a given tobacco or e-Cigarette product. These uncertainties arise from the use of artificial smoking conditions that might not accurately reflect the ways in which humans actually use the products in question. Thus ``urine``, ``plasma``, ``salivary``, and ``breath`` biomarkers, which in most cases are quantifiable metabolites of specific tobacco smoke or e-Cigarette emission constituents, can provide objective and useful information on actual human exposure to specific toxicants or carcinogens. This chatper will review some biomarkers of exposure which have been widely used to monitor human uptake of tobacco smoke constituents and will then present data on the application of these biomarkers in studies of e-Cigarette users.
    
-   - :ref:`第五章: 最近邻方法 (NNM) <label5>`, 展示如何运用数值度量，文本度量和比例距离函数使用最近邻技巧. 我们使用最近邻技巧来完成地址记录匹配和从MNIST数据库中对手写数字进行分类.
+   - :ref:`Chapter 5: Review of Compounds of Regulatory Concern`, As with any consumer product, regulation for e-Cigarette is important in order to ensure the best possible quality, safety, consistency in product standards and contents, and effectiveness for the intended use. However, the issue of e-Cigarette regulation is more complex than for other other consumer products. e-Cigarette use is associated with :emphasis:`the intake of an addictive substance, nicotine`. Also, the pattern of use closely resembles the act of smoking, and the intended use from a public health perspective is as a smoking substitute and not as a new "trend" or habit. As a result, the regulatory assessment of e-Cigarette is much more complex and challenging in terms of their content and emissions as well as promotion, marketing, and related public perception of the product. It is tempting to regulate e-Cigarettes based on absolute safety and using the precautionary prinicple. That would minimize the risk of avoidable harm, related to exposure to toxins in e-Cigarette, renormalization, gateway progression to smoking, or other real or potential risks. However, if this approach also makes e-Cigarettes less easily accessible, less palatable or acceptable, more expensive, less consumer friendly or or pharmacologically less effective for smokers, or if it inhibits innovation and development of new and improved products, then it causes harm by perpetuating smoking. Getting this balance right will be a challenging process.
    
-   - :ref:`第六章: 神经网络 (Neural Networks) <label6>`, 介绍了从操作门 (operational gates) 和激活函数 (activation function) 的概念开始, 在tensorflow中如何运用神经网络. 然后我们展示一个很浅神经元然后展示如何建立不同类型的层. 在本章的末尾, 我们会教tensorflow通过神经网络的方法玩井字棋(tic-tac-toe).
+   - :ref:`Chapter 6: Potential Impact of e-Cigarette Usage <label6>`, Cigarette smoke contains more than 7000 chemicals, many of which are known to be harmful to the human body, thus causing a broad range of fatal diseases. Death is mainly from ischemic heart disease, stroke, lung cancer, and the catastrophic complications of advanced- stage chronic obstructive pulmonary disease (COPD). Abstention from smoking is known to lower the risk of developing these diseases and to produce significant health gains in patients who already have them. Most smokers want to quit and many make attempts to do so, but most of these attempts fail largely because of the powerful addictive qualities of nicotine and nonnicotine sensory and behavioral cues. For those willing to quit, a combination of pharmacotherapy and behavioral intervention can support attempts and double or triple the quit rate. However, outside the context of rigorous randomized controlled trials (RCTs), efficacy rates are disappointingly low, with an estimated annual population cessation rate of approximately (cid:1)5%.(cid:1)
    
-   - :ref:`第七章: 自然语言处理 (NLP) <label7>`, 本章展示了运用tensorflow不同文本的处理方法. 我们会展示如何在文本处理中使用Bag of Words (BoW) 模型和TF-IDF (Term Frequency-Inverse Document Frequency) 模型. 我们然后会用CBOW (Continuous Bag of Words) 和Skip-Gram模型来介绍神经元完了文本表达, 然后运用这些技巧到Word2Vec和Doc2Vec上, 用于解决实际结果预测.
-   
-   - :ref:`第八章: 卷积神经网络 (CNN) <label8>`, 通过展示如何通过使用卷积神经网络 (convolutional neural networks) CNNs模型将神经网络运用到图像处理上. 我们诠释了如何为MNIST数字识别构建一个简单卷积神经网络模型, 然后在CIFAR-10任务中把它扩展到颜色识别. 我们也会展示如何把之前训练过得图像识别模型扩展到自定义任务当中. 在本章的末尾，我们会在tensorflow中解释 stylenet/neural style和deep-dream 算法.
-   
-   - :ref:`第九章: 递归神经网络 (RNN) <label9>`, 会展示如何在tensorflow中运用递归神经元(recurrent neural networks). 我们会展示如何进行垃圾文本预测, 然后将递归神经网络模型扩展到基于莎士比亚文本生成. 我们也会训练段对段模型 (sequence to sequence model), 用于德语英语的翻译. 在本章的末尾, 我们也会展示Siamese递归神经网络用于地址记录匹配的用法.
-   
-   - :ref:`第十章: TensorFlow的应用技巧 <label10>`, 本章将会给出将TensorFlow应用到开发环境中, 如何利用多过程设备(比如GPUs), 然后将TensorFlow分布在多个机器上.
-   
-   - :ref:`第十一章: TensorFlow的更多功能 <label11>`, 通过阐述如何运行k-means, genetic算法来展示TensorFlow的多面性, 解决系统的常微分方程. 我们也展示Tensorboard的多处使用, 以及如何显示计算图度量.
-
 -------------
 
-让我们从一个TensorFlow的视频开始吧！
 
-.. raw:: html
-
-    <video poster="_static/images/GCC.png" width="690" height="402" controls="controls">
-        <source src="_static/videos/Intro2ML/TFIntro1.mp4" type="video/mp4">
-    </video>
-
-目录
-====
+Content
+=======
   
 .. _label1:
 .. toctree::
    :maxdepth: 5
-   :caption: 从TensorFlow开始 (Getting Started)
+   :caption: Chapter 1: Introduction to e-Cigarettes
    
-   01_Introduction/index
+   01/Chapter_1_Introduction_to_e_Cigarettes
 
 .. _label2:
 .. toctree::
-   :maxdepth: 3
-   :caption: TensorFlow方式 (TensorFlow Way)
+   :maxdepth: 5
+   :caption: Chapter_2_Analytical_Testing_of_e_Cigarette_Aerosol
    
-   02_TensorFlow_Way/index
+   02/index
 
 .. _label3:
 .. toctree::
-   :maxdepth: 3
-   :caption: 线性回归 (Linear Regression)
+   :maxdepth: 5
+   :caption: Chapter 3: Exposures to e-Cigarette Vapor
    
-   03_Linear_Regression/index
+   03/Chapter_3_Exposures_to_e-Cigarette_Vapor
 
 .. _label4:
 .. toctree::
-   :maxdepth: 3
-   :caption: 支持向量机(Support Vector Machines)
+   :maxdepth: 5
+   :caption: Chapter 4: Biomarkers for Assessment
    
-   04_Support_Vector_Machines/index
+   04/Chapter_4_Biomarkers_for_Assessment
 
 .. _label5:
 .. toctree::
-   :maxdepth: 3
-   :caption: 最近邻法 (Nearest Neighbor Methods)
+   :maxdepth: 5
+   :caption: Chapter 5: Review of Compounds of Regulatory Concern
    
-   05_Nearest_Neighbor_Methods/index
+   05/Chapter_5_Review_of_Compounds_of_Regulatory_Concern
 
 .. _label6:
 .. toctree::
-   :maxdepth: 3
-   :caption: 神经元网络 (Neural Networks)
+   :maxdepth: 5
+   :caption: Chapter 6: Potential Impact of e-Cigarette Usage
    
-   06_Neural_Networks/index
+   06/Chapter_6_Potential_Impact_of_e-Cigarette_Usage
 
-.. _label7:
-.. toctree::
-   :maxdepth: 3
-   :caption: 自然语言处理(NLP)
-   
-   07_Natural_Language_Processing/index
-
-.. _label8:
-.. toctree::
-   :maxdepth: 3
-   :caption: 卷积神经网络(CNN)
-   
-   08_Convolutional_Neural_Networks/index
-
-.. _label9:
-.. toctree::
-   :maxdepth: 3
-   :caption: 递归神经网络(RNN)
-   
-   09_Recurrent_Neural_Networks/index
-
-.. _label10:
-.. toctree::
-   :maxdepth: 3
-   :caption: TensorFlow的应用技巧
-   
-   10_Taking_TensorFlow_to_Production/index
-
-.. _label11:
-.. toctree::
-   :maxdepth: 3
-   :caption: TensorFlow的更多功能
-   
-   11_More_with_TensorFlow/index
-
-
-许可证(License)
+License
 ==============
 
-MIT许可证请参见 `MIT LICENSE <https://github.com/nickcafferry/tensorflow/blob/master/LICENSE>`_
+MIT Licence, Please refer to `MIT LICENSE <https://github.com/nickcafferry/Advanced_Materials_Engineer/blob/master/LICENSE>`_
 
-TensorFlow模块介绍
-==============
-
-.. automodule:: tensorflow
-    :members:
-    :undoc-members:
-    :show-inheritance:
