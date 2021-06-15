@@ -69,95 +69,61 @@ References
 
 10. DawkinsL,TurnerJ,RobertsA,SoarK. Vaping”profiles and preferences: an online survey of electronic cigarette users. Addiction2013;108:1115(cid:1)25.
 
-11. EtterJF.Throathitinusersoftheelectroniccigarette:anexploratorystudy.PsycholAddict
-Behav2016;30:93(cid:1)100.
+11. EtterJF.Throathitinusersoftheelectroniccigarette:anexploratorystudy.PsycholAddict Behav2016;30:93(cid:1)100.
 
-12. Farsalinos KE, Romagna G, Tsiapras D, Kyrzopoulos S, Voudris V. Characteristics, per-
-ceivedside effectsand benefitsof electronic cigaretteuse:a worldwidesurveyof morethan
-19,000consumers.IntJEnvironResPublicHealth2014;11:4356(cid:1)73.
+12. Farsalinos KE, Romagna G, Tsiapras D, Kyrzopoulos S, Voudris V. Characteristics, perceivedside effectsand benefitsof electronic cigaretteuse:a worldwidesurveyof morethan 19,000consumers.IntJEnvironResPublicHealth2014;11:4356(cid:1)73.
 
-13. LopezAA,HilerMM,SouleEK,RamôaCP,KaraoghlanianNV,LipatoT,etal.Effectsof
-electroniccigaretteliquidnicotineconcentrationonplasmanicotineandpufftopographyin
-tobaccocigarettesmokers:apreliminaryreport.NicotineTobRes2016;18:720(cid:1)3.
+13. LopezAA,HilerMM,SouleEK,RamôaCP,KaraoghlanianNV,LipatoT,etal.Effectsof electronic cigarette liquid nicotine concentration on plasma nicotine and puff topography in tobacco cigarette smokers:apreliminaryreport.NicotineTobRes2016;18:720(cid:1)3.
 
-14. FarsalinosKE,VoudrisV,PoulasK.Aremetalsemittedfromelectroniccigarettesareason
-forhealthconcern?Arisk-assessmentanalysisofcurrentlyavailableliterature.IntJEnviron
+14. FarsalinosKE,VoudrisV,PoulasK.Aremetalsemittedfromelectroniccigarettesareason forhealthconcern?Arisk-assessmentanalysisofcurrentlyavailableliterature.IntJEnviron
 ResPublicHealth2015;12:5215(cid:1)32.
 
-15. ZhuSH,SunJY,BonnevieE,CumminsSE,GamstA,YinL,etal.Fourhundredandsixty
-brandsofe-cigarettesandcounting:implicationsforproductregulation.TobControl2014;23
+15. ZhuSH,SunJY,BonnevieE,CumminsSE,GamstA,YinL,etal.Fourhundredandsixty brandsofe-cigarettesandcounting:implicationsforproductregulation.TobControl2014;23
 (Suppl.3):iii3(cid:1)9.
 
-16. Marshall BDL, Wood E. Toward a comprehensive approach to HIV prevention for people
-whousedrugs.JAcquirImmuneDeficSyndr2010;55(Suppl1):S23(cid:1)26.
+16. Marshall BDL, Wood E. Toward a comprehensive approach to HIV prevention for people whousedrugs.JAcquirImmuneDeficSyndr2010;55(Suppl1):S23(cid:1)26.
 
-17. Beyrer C, Malinowska-Sempruch K, Kamarulzaman A, Kazatchkine M, Sidibe M,
-Strathdee SA. Time to act: a call for comprehensive responses to HIV in people who use
+17. Beyrer C, Malinowska-Sempruch K, Kamarulzaman A, Kazatchkine M, Sidibe M, Strathdee SA. Time to act: a call for comprehensive responses to HIV in people who use
 drugs.Lancet2010;376:551(cid:1)63.
 
-18. WorldHealthOrganization,UnitedNationsOfficeonDrugsandCrime,JointUnitedNations
-ProgramonHIV/AIDS.HO,UNODC,UNAIDStechnicalguideforcountriestosettargetsfor
+18. WorldHealthOrganization,UnitedNationsOfficeonDrugsandCrime,JointUnitedNations ProgramonHIV/AIDS.HO,UNODC,UNAIDStechnicalguideforcountriestosettargetsfor
 universalaccesstoHIVprevention,treatmentandcareforinjectingdrugusers:2012revision.
 
-19. HarmReductionInternational.Globalstateofharmreduction2014.Availablefrom: https://
-www.hri.global/contents/1524.
+19. HarmReductionInternational.Globalstateofharmreduction2014.Availablefrom: https://www.hri.global/contents/1524.
 
-20. Wilson DP, Donald B, Shattock AJ, Wilson D, Fraser-Hurt N. The cost-effectiveness of
-harmreduction.IntJDrugPolicy2015;26(Suppl.1):S5(cid:1)11.
+20. Wilson DP, Donald B, Shattock AJ, Wilson D, Fraser-Hurt N. The cost-effectiveness of harmreduction.IntJDrugPolicy2015;26(Suppl.1):S5(cid:1)11.
 
-21. RussellMA.Low-tarmedium-nicotinecigarettes:anewapproachtosafersmoking.BrMedJ
-1976;1:1430(cid:1)3.
+21. RussellMA.Low-tarmedium-nicotinecigarettes:anewapproachtosafersmoking.BrMedJ 1976;1:1430(cid:1)3.
 
-22. Luo J, Ye W, Zendehdel K, Adami J, Adami HO, Boffetta P, et al. Oral use of Swedish
-moistsnuff(snus)andriskforcancerofthemouth,lung,andpancreasinmaleconstruction
-workers:aretrospectivecohortstudy.Lancet2007;369:2015(cid:1)20.
+22. Luo J, Ye W, Zendehdel K, Adami J, Adami HO, Boffetta P, et al. Oral use of Swedish moistsnuff(snus)andriskforcancerofthemouth,lung,andpancreasinmaleconstruction workers:aretrospectivecohortstudy.Lancet2007;369:2015(cid:1)20.
 
-23. LeePN,HamlingJ.Systematicreviewoftherelationbetweensmokelesstobaccoandcancer
-inEuropeandNorthAmerica.BMCMed2009;7:36.
+23. LeePN,HamlingJ.Systematicreviewoftherelationbetweensmokelesstobaccoandcancer inEuropeandNorthAmerica.BMCMed2009;7:36.
 
-24. HuhtasaariF,LundbergV,EliassonM,JanlertU,AsplundK.Smokelesstobaccoasapossi-
-bleriskfactorformyocardialinfarction:apopulation-basedstudyinmiddle-agedmen.JAm
-CollCardiol1999;34:1784(cid:1)90.
+24. HuhtasaariF,LundbergV,EliassonM,JanlertU,AsplundK.Smokelesstobaccoasapossi-bleriskfactorformyocardialinfarction:apopulation-basedstudyinmiddle-agedmen.JAm CollCardiol1999;34:1784(cid:1)90.
 
-25. HanssonJ, GalantiMR,HergensMP, FredlundP, Ahlbom A,AlfredssonL, et al. Use of
-snusandacutemyocardialinfarction:pooledanalysisofeightprospectiveobservationalstud-
-ies.EurJEpidemiol2012;27:771(cid:1)9.
+25. HanssonJ, GalantiMR,HergensMP, FredlundP, Ahlbom A,AlfredssonL, et al. Use of snusandacutemyocardialinfarction:pooledanalysisofeightprospectiveobservationalstud- ies.EurJEpidemiol2012;27:771(cid:1)9.
 
-26. Hansson J, Galanti MR, Hergens MP, Fredlund P, Ahlbom A, Alfredsson L, et al. Snus
-(Swedish smokeless tobacco) use and risk of stroke: pooled analyses of incidence and
-survival.JInternMed2014;276:87(cid:1)95.
+26. Hansson J, Galanti MR, Hergens MP, Fredlund P, Ahlbom A, Alfredsson L, et al. Snus (Swedish smokeless tobacco) use and risk of stroke: pooled analyses of incidence and survival.JInternMed2014;276:87(cid:1)95.
 
-27. Russell MA. Realistic goals for smoking and health: a case for safer smoking. Lancet
-1974;1:254(cid:1)8.
+27. Russell MA. Realistic goals for smoking and health: a case for safer smoking. Lancet 1974;1:254(cid:1)8.
 
 28. RussellMAH,JarvisMJ,FeyerabendC.Anewageforsnuff?Lancet1980;1:474(cid:1)5.
 
 29. KirklandLR.Thenonsmokingusesoftobacco.NEnglJMed1980;303:165.
 
-30. Ramström L, Wikmans T. Mortality attributable to tobacco among men in Sweden and
-otherEuropeancountries:ananalysisofdatainaWHOreport.TobInducDis2014;12:14.
+30. Ramström L, Wikmans T. Mortality attributable to tobacco among men in Sweden and otherEuropeancountries:ananalysisofdatainaWHOreport.TobInducDis2014;12:14.
 
-31. MedicinesandHealthcareProductsRegulatoryAgency.Nicotinereplacementtherapy(NRT):
-new extended indication andconsultation. Availablefrom: http://webarchive.nationalarchives.
-gov.uk/20141205150130/http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/
-safetywarningsandmessagesformedicines/con 068572;2010.
+31. MedicinesandHealthcareProductsRegulatoryAgency.Nicotinereplacementtherapy(NRT): new extended indication andconsultation. Availablefrom: http://webarchive.nationalarchives. gov.uk/20141205150130/http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/safetywarningsandmessagesformedicines/con 068572;2010.
 
-32. National Institute for Health and Care Excellence. Tobacco-harm-reduction approaches to
-smoking:guidance.Availablefrom:http://www.nice.org.uk/nicemedia/live/14178/63996/63996.
-pdf;2013.
+32. National Institute for Health and Care Excellence. Tobacco-harm-reduction approaches to smoking:guidance.Availablefrom:http://www.nice.org.uk/nicemedia/live/14178/63996/63996.pdf;2013.
 
-33. Food and Drug Administration (FDA). Consumer health information. Nicotine replacement
-therapy labels may change. Available from: http://www.fda.gov/downloads/ForConsumers/
-ConsumerUpdates/UCM346012.pdf;April2013.
+33. Food and Drug Administration (FDA). Consumer health information. Nicotine replacement therapy labels may change. Available from: http://www.fda.gov/downloads/ForConsumers/ ConsumerUpdates/UCM346012.pdf;April2013.
 
-34. Rose J, Levin E. Inter-relationships between conditioned and primary reinforcement in the
-maintenanceofcigarettesmoking.BrJAddict 1991; 86: 605(cid:1)9.
+34. Rose J, Levin E. Inter-relationships between conditioned and primary reinforcement in the maintenanceofcigarettesmoking.BrJAddict 1991; 86: 605(cid:1)9.
 
-35. HajekP,JarvisM,BelcherM,SutherlandG,FeyerabendC.Effectofsmoke-freecigarettes
-on 24h cigarette withdrawal: a double-blind placebo-controlled study. Psychopharmacology
+35. HajekP,JarvisM,BelcherM,SutherlandG,FeyerabendC.Effectofsmoke-freecigarettes on 24h cigarette withdrawal: a double-blind placebo-controlled study. Psychopharmacology
 (Berl) 1989; 97: 99(cid:1) 102.
 
-36. Dockrell M, Morrison R, Bauld L, McNeill A. e-Cigarettes: prevalence and attitudes in
-GreatBritain.NicotineTobRes 2013; 15: 1737(cid:1) 44.
+36. Dockrell M, Morrison R, Bauld L, McNeill A. e-Cigarettes: prevalence and attitudes in GreatBritain.NicotineTobRes 2013; 15: 1737(cid:1) 44.
 
 37. Adkison SE, O’Connor RJ, Bansal-Travers M, Hyland A, Borland R, Yong HH, et al. Electronic nicotine delivery systems: international tobacco control four-country survey.AmJ PrevMed2013;44:207(cid:1)15.
