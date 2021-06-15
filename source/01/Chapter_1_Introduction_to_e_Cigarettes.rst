@@ -59,19 +59,19 @@ References
 
 5. United States Patent Office. Smokeless non-tobacco cigarette. Publication No: 3,200,819; August 17,1965.
 
-6. `Farsalinos KE, Polosa R. Safety evaluation and risk assessment of electronic cigarettes as tobacco cigarette substitutes:asystematicreview.TherAdvDrugSaf2014;5:67(cid:1)86. <https://journals.sagepub.com/doi/10.1177/2042098614524430>`_
+6. `Farsalinos KE, Polosa R. Safety evaluation and risk assessment of electronic cigarettes as tobacco cigarette substitutes:a systematic review.Ther Adv Drug Saf2014;5:67(cid:1)86. <https://journals.sagepub.com/doi/10.1177/2042098614524430>`_
 
-7. FarsalinosKE, YannovitsN, SarriT, VoudrisV, PoulasK. Protocol proposal for, andevaluationof, consistencyin nicotine deliveryfrom the liquid to the aerosolof electroniccigar- ettesatomizers:regulatoryimplications.Addiction2016;111:1069(cid:1)76.
+7. Farsalinos KE, Yannovits N, Sarri T, Voudris V, Poulas K. Protocol proposal for and evaluation of consistency in nicotine delivery from the liquid to the aerosol of electronic cigar- ettesatomizers:regulatoryimplications.Addiction2016;111:1069(cid:1)76.
 
-8. NidesMA, LeischowSJ, BhatterM, SimmonsM. Nicotine blood levels and short-termsmok ingreduction with an electronic nicotine delivery system. AmJHealthBehav2014;38:265(cid:1)74.
+8. Nides MA, Leischow SJ, Bhatter M, Simmons M. Nicotine blood levels and short-termsmok ingreduction with an electronic nicotine delivery system. Am J Health Behav 2014; 38: 265(cid:1)74.
 
-9. Farsalinos KE, Spyrou A, Tsimopoulou K, Stefopoulos C, Romagna G, Voudris V. Nicotine absorption from electronic cigarette use: comparison between first and new-generationdevices.SciRep2014;4:4133.
+9. Farsalinos K E, Spyrou A, Tsimopoulou K, Stefopoulos C, Romagna G, Voudris V. Nicotine absorption from electronic cigarette use: comparison between first and new-generation devices. Sci Rep 2014; 4: 4133.
 
-10. DawkinsL,TurnerJ,RobertsA,SoarK. Vaping”profiles and preferences: an online survey of electronic cigarette users. Addiction2013;108:1115(cid:1)25.
+10. Dawkins L,Turner J,Roberts A,Soar K. Vaping” profiles and preferences: an online survey of electronic cigarette users. Addiction 2013; 108: 1115 (cid:1) 25.
 
-11. EtterJF.Throathitinusersoftheelectroniccigarette:anexploratorystudy.PsycholAddict Behav2016;30:93(cid:1)100.
+11. Etter JF.Throat hit in users of the electronic cigarette: ane xploratory study. Psychol Addict Behav 2016; 30: 93 (cid:1) 100.
 
-12. Farsalinos KE, Romagna G, Tsiapras D, Kyrzopoulos S, Voudris V. Characteristics, perceivedside effectsand benefitsof electronic cigaretteuse:a worldwidesurveyof morethan 19,000consumers.IntJEnvironResPublicHealth2014;11:4356(cid:1)73.
+12. Farsalinos KE, Romagna G, Tsiapras D, Kyrzopoulos S, Voudris V. Characteristics, perceived side effectsand benefitsof electronic cigaretteuse:a worldwidesurveyof morethan 19,000consumers.IntJEnvironResPublicHealth2014;11:4356(cid:1)73.
 
 13. LopezAA,HilerMM,SouleEK,RamôaCP,KaraoghlanianNV,LipatoT,etal.Effectsof electronic cigarette liquid nicotine concentration on plasma nicotine and puff topography in tobacco cigarette smokers:apreliminaryreport.NicotineTobRes2016;18:720(cid:1)3.
 
@@ -107,13 +107,14 @@ universalaccesstoHIVprevention,treatmentandcareforinjectingdrugusers:2012revisio
 
 27. Russell MA. Realistic goals for smoking and health: a case for safer smoking. Lancet 1974;1:254(cid:1)8.
 
-28. RussellMAH,JarvisMJ,FeyerabendC.Anewageforsnuff?Lancet1980;1:474(cid:1)5.
+28. Russell MA H, Jarvis MJ, Feyera bend C.Anewage for snuff Lancet1980;1:474(cid:1)5.
 
-29. KirklandLR.Thenonsmokingusesoftobacco.NEnglJMed1980;303:165.
+29. Kirk land LR.Then on smoking uses of tobacco. NEngl J Med 1980;303:165.
 
-30. Ramström L, Wikmans T. Mortality attributable to tobacco among men in Sweden and otherEuropeancountries:ananalysisofdatainaWHOreport.TobInducDis2014;12:14.
+30. Ramström L, Wikmans T. Mortality attributable to tobacco among men in Sweden and other European countries:ananalysis of data in a WHO report.TobInducDis2014;12:14.
 
-31. MedicinesandHealthcareProductsRegulatoryAgency.Nicotinereplacementtherapy(NRT): new extended indication andconsultation. Availablefrom: http://webarchive.nationalarchives. gov.uk/20141205150130/http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/safetywarningsandmessagesformedicines/con 068572;2010.
+31. Medicines and Health care Products Regulatory Agency.Nicotine replacement therapy (NRT): new extended indication andconsultation.
+Available from: `http://webarchive.nationalarchives.gov.uk/20141205150130/ <Click here>`_ `http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/safetywarningsandmessagesformedicines/con <Click Here>`_ 068572;2010.
 
 32. National Institute for Health and Care Excellence. Tobacco-harm-reduction approaches to smoking:guidance.Availablefrom:http://www.nice.org.uk/nicemedia/live/14178/63996/63996.pdf;2013.
 
