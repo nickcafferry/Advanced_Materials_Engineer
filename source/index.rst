@@ -60,21 +60,21 @@ Content
 .. _label1:
 .. toctree::
    :maxdepth: 5
-   :caption: Chapter 1: Introduction to e-Cigarettes
+   :caption: Chapter 1: Introduction to EC
    
    01/Chapter_1_Introduction_to_e_Cigarettes
 
 .. _label2:
 .. toctree::
    :maxdepth: 5
-   :caption: Chapter_2_Analytical_Testing_of_e_Cigarette_Aerosol
+   :caption: Chapter 2: Analytical Testing of EC Aerosol
    
    02/Chapter_2_Analytical_Testing_of_e_Cigarette_Aerosol
 
 .. _label3:
 .. toctree::
    :maxdepth: 5
-   :caption: Chapter 3: Exposures to e-Cigarette Vapor
+   :caption: Chapter 3: Exposures to EC Vapor
    
    03/Chapter_3_Exposures_to_e-Cigarette_Vapor
 
