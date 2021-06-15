@@ -17,4 +17,6 @@ e-Cigarettes were invented by Hon Lik, a pharmacist from China. The initial pate
 
 - 1. First-generation ("Cigalike") devices have similar size, shape, and appearance as tobacco cigarettes. They consist of a small lithium battery and a cartomizer. The battery can be either dispoable. First generation: (A) disposable cigalike; (B) rechargeable replacement prefilled cartomizers. 
 
-- 2. Second-generation devices consist of a rechargeable lithium battery of larger size and cylindrical shape, resembling a large pen. These are called 
+- 2. Second-generation devices consist of a rechargeable lithium battery of larger size and cylindrical shape, resembling a large pen. These are called eGo-type batteries. The atomizer is refillable and has a tank design, with a storage space for the liquid and a transparent window so that the user can see the level of the liquid. Initially, the whole atomizer had to be discarded after serveral milliters of liquid consumption, but in the last few years they have been availabe with removable heads so that the resistance and wick parts are replaced and the body retained. This significantly reduced the cost of use and resulted in the development of more advanced products.
+
+- 3. Third generation devices, called "mods" or "advanced personal vaporizers"(APVs), consist of a large-capacity lithium battery with an integrated circuit that allows the user("vaper") to adjust the energy (wattage) delivered to the atomizer. They usually have either a cylindrical or a box-like shape.
