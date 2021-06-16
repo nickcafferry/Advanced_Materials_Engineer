@@ -56,7 +56,10 @@ One of the determinants of the net effect of e-Cigarettes on public health is th
 
 Content
 =======
-  
+
+.. raw:: html
+   :file: nicotine.html
+
 .. _label1:
 .. toctree::
    :maxdepth: 5
