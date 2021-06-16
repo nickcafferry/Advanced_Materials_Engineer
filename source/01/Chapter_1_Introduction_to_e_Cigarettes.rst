@@ -24,6 +24,10 @@ e-Cigarettes were invented by Hon Lik, a pharmacist from China. The initial pate
 
 - 3. Third generation devices, called "mods" or "advanced personal vaporizers"(APVs), consist of a large-capacity lithium battery with an integrated circuit that allows the user("vaper") to adjust the energy (wattage) delivered to the atomizer. They usually have either a cylindrical or a box-like shape. They can be combined with either second-generation atomizers or rebuildable atomizers, where the consumers can prepare a custom setup of resistance and wick. Most of these atomizers have a tank-type design, but there is a distinct group of “dripper” atomizers which have no storage space; the user introduces the liquid from the mouthpiece at regular intervals to keep the wicking material wet.
 
+.. raw:: html
+  
+    <img src="./page_9_0.png" />
+
 Another proposed classification is open versus closed systems, referring to the ability or not to refill the atomizer with liquid. However, closed systems can be modified and refilled. Furthermore, this classification is not indicative of different functional and performance characteristics and is of limited value for the understanding of consumers about the potential of the devices.
 
 
