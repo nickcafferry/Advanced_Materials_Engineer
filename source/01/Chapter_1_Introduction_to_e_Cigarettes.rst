@@ -121,11 +121,11 @@ universalaccesstoHIVprevention,treatmentandcareforinjectingdrugusers:2012revisio
 30. Ramström L, Wikmans T. Mortality attributable to tobacco among men in Sweden and other European countries:ananalysis of data in a WHO report.TobInducDis2014;12:14.
 
 31. Medicines and Health care Products Regulatory Agency.Nicotine replacement therapy (NRT): new extended indication andconsultation.
-Available from: <http://webarchive.nationalarchives.gov.uk/20141205150130/>`_ `http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/safetywarningsandmessagesformedicines/con <Click Here>`_ 068572;2010.
+ `Available <http://webarchive.nationalarchives.gov.uk/20141205150130/>`_  `Click Here <http://mhra.gov.uk/safetyinformation/safetywarningsalertsandrecalls/safetywarningsandmessagesformedicines/con>`_ 068572;2010.
 
 32. National Institute for Health and Care Excellence. Tobacco-harm-reduction approaches to smoking:guidance.Availablefrom:http://www.nice.org.uk/nicemedia/live/14178/63996/63996.pdf;2013.
 
-33. Food and Drug Administration (FDA). Consumer health information. Nicotine replacement therapy labels may change. Available from: http://www.fda.gov/downloads/ForConsumers/ ConsumerUpdates/UCM346012.pdf;April2013.
+33. Food and Drug Administration (FDA). Consumer health information. Nicotine replacement therapy labels may change. `Available <http://www.fda.gov/downloads/ForConsumers/ ConsumerUpdates/UCM346012.pdf>`_; April2013.
 
 34. Rose J, Levin E. Inter-relationships between conditioned and primary reinforcement in the maintenanceofcigarettesmoking.BrJAddict 1991; 86: 605(cid:1)9.
 
