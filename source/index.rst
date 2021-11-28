@@ -104,6 +104,7 @@ Content
 
 Heating Technology
 ------------------
+
 .. raw:: html
    :file: Purlava_Particle.html
    
