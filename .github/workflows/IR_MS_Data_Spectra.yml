@@ -38,6 +38,7 @@ jobs:
          export PATH="$PATH:/home/runner/.local/bin:/home/runner/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/"
          pip3 install --upgrade pip
          pip3 install wheel
+         pip3 install request
          python3.8 -m pip install -U pymupdf
          python3.8 IR_MS_Data_Scrap.py
          ls
