@@ -35,11 +35,11 @@ jobs:
       run: |
          echo "---------------------------------------------"
          cd doc/
-         export PATH="$PATH:/home/runner/.local/bin:/home/runner/Fechii-Application-Chemical-Engineer/Fechii-Application-Chemical-Engineer/doc/"
+         export PATH="$PATH:/home/runner/.local/bin:/home/runner/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/"
          pip3 install --upgrade pip
          pip3 install wheel
          python3.8 -m pip install -U pymupdf
-         python3.8 ChemName2CID.py
+         python3.8 IR_MS_Data_Scrap.py
          ls
 
          echo "recording information already unpacked!"
@@ -48,17 +48,18 @@ jobs:
          echo "---------------------------------------------"
          
          echo "transporting new outputs to artifacts..."
-         cp ChemNametoCID.txt /home/runner/work/Fechii-Application-Chemical-Engineer/output/
+         cp ./data/ir /home/runner/work/Advanced_Materials_Engineer/doc/data/
+         cp ./data/ms /home/runner/work/Advanced_Materials_Engineer/doc/data/
                 
-         cd /home/runner/work/Fechii-Application-Chemical-Engineer/Fechii-Application-Chemical-Engineer/
+         cd /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/
          git push origin master
         
          echo "checking the artifacts..."
-         cd /home/runner/work/Fechii-Application-Chemical-Engineer/output/
+         cd /home/runner/work/Advanced_Materials_Engineer/doc/data/
          ls
          pwd
          
     - uses: actions/upload-artifact@v2
       with:
         name: output results
-        path: /home/runner/work/Fechii-Application-Chemical-Engineer/output/ 
+        path: /home/runner/work/Advanced_Materials_Engineer/doc/data/
