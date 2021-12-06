@@ -32,8 +32,6 @@ def scrap_data(cas_ls, params, data_dir):
 
 	num_created = 0
 	for cas_id in cas_ls:
-		if num_created%1000:
-			time.sleep(20)
 		params['JCAMP'] = 'C' + cas_id
 		response = requests.get(nist_url, params=params, headers=headers)
 
