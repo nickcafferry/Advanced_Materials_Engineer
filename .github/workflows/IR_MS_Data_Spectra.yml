@@ -1,3 +1,4 @@
+#cp ./data/ms /home/runner/work/Advanced_Materials_Engineer/doc/data/
 name: ChemName2CID
 
 on:
@@ -52,7 +53,7 @@ jobs:
          
          echo "transporting new outputs to artifacts..."
          cp ./data/ir /home/runner/work/Advanced_Materials_Engineer/doc/data/
-         cp ./data/ms /home/runner/work/Advanced_Materials_Engineer/doc/data/
+
                 
          cd /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/
          git push origin master
