@@ -34,13 +34,14 @@ def scrap_data(cas_ls, params, data_dir):
 	for cas_id in cas_ls:
 		params['JCAMP'] = 'C' + cas_id
 		response = requests.get(nist_url, params=params, headers=headers)
-
 		if response.text == '##TITLE=Spectrum not found.\n##END=\n':
 			continue
 		num_created+=1
 		logging.info('Creating {} spectra for id: {}. Total spectra created {}'.format(params['Type'].lower(), cas_id, num_created))
 		with open(spectra_path +cas_id +'.jdx', 'wb') as data:
 			data.write(response.content)
+		if num_created == 200:
+			break
 
 def scrap_inchi(cas_ls, params, data_dir):
 	'''Collect Inchi keys from NIST database and store them in txt format.
@@ -122,9 +123,6 @@ logging.info('Scrap IR spectra')
 if args.scrap_IR:
 	params={'JCAMP': '', 'Type': 'IR', 'Index': 0}
 	scrap_data(cas_ids, params, data_dir)
-	n = n+1
-	if n%200 == 0:
-		time.sleep(20)
 
 #n = 0
 #logging.info('Scrap InChi keys')
