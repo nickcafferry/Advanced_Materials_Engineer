@@ -32,6 +32,8 @@ def scrap_data(cas_ls, params, data_dir):
 
 	num_created = 0
 	for cas_id in cas_ls:
+		if num_created%1000:
+			time.sleep(20)
 		params['JCAMP'] = 'C' + cas_id
 		response = requests.get(nist_url, params=params, headers=headers)
 
@@ -108,14 +110,14 @@ cas_ids = list(cas_df.cas)
 
 
 
-n  = 0
-logging.info('Scrap Mass spectra')
-if args.scrap_MS:
-	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
-	scrap_data(cas_ids, params, data_dir)
-	n = n+1
-	if n%200 == 0:
-		time.sleep(0)
+#n  = 0
+#logging.info('Scrap Mass spectra')
+#if args.scrap_MS:
+#	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
+#	scrap_data(cas_ids, params, data_dir)
+#	n = n+1
+#	if n%200 == 0:
+#		time.sleep(0)
 
 n = 0
 logging.info('Scrap IR spectra')
@@ -126,11 +128,11 @@ if args.scrap_IR:
 	if n%200 == 0:
 		time.sleep(20)
 
-n = 0
-logging.info('Scrap InChi keys')
-if args.scrap_InChi:
-	params={}
-	scrap_inchi(cas_ids, params, data_dir)
-	n = n+1
-	if n%200 == 0:
-		time.sleep(20)
+#n = 0
+#logging.info('Scrap InChi keys')
+#if args.scrap_InChi:
+#	params={}
+#	scrap_inchi(cas_ids, params, data_dir)
+#	n = n+1
+#	if n%200 == 0:
+#		time.sleep(20)
