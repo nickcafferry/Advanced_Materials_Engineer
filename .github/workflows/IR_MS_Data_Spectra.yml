@@ -52,18 +52,18 @@ jobs:
          echo "---------------------------------------------"
          
          echo "transporting new outputs to artifacts..."
-         cp -r /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/ir /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/
+         cp -r /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/ir /home/runner/work/Advanced_Materials_Engineer/output/
 
                 
          cd /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/
          git push origin master
         
          echo "checking the artifacts..."
-         cd /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/ir
+         cd /home/runner/work/Advanced_Materials_Engineer/output/
          ls
          pwd
          
     - uses: actions/upload-artifact@v2
       with:
         name: output results
-        path: /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/
+        path: /home/runner/work/Advanced_Materials_Engineer/output/
