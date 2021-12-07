@@ -52,7 +52,7 @@ jobs:
          echo "---------------------------------------------"
          
          echo "transporting new outputs to artifacts..."
-         cp -r /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/ir /home/runner/work/Advanced_Materials_Engineer/output/
+         cp -r /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/mass /home/runner/work/Advanced_Materials_Engineer/output/
 
                 
          cd /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/
