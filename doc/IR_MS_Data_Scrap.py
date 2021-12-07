@@ -40,7 +40,7 @@ def scrap_data(cas_ls, params, data_dir):
 		logging.info('Creating {} spectra for id: {}. Total spectra created {}'.format(params['Type'].lower(), cas_id, num_created))
 		with open(spectra_path +cas_id +'.jdx', 'wb') as data:
 			data.write(response.content)
-		if num_created%2000 == 0 and num_created != 0:
+		while num_created%1000 == 0 and num_created != 0:
 			break
 
 def scrap_inchi(cas_ls, params, data_dir):
