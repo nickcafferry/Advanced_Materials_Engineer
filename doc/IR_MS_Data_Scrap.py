@@ -32,7 +32,7 @@ def scrap_data(cas_ls, params, data_dir):
 
 	num_created = 0
 	for cas_id in cas_ls:
-		if num_created <= 18810:
+		if num_created <= 14833:
 			continue
 		params['JCAMP'] = 'C' + cas_id
 		response = requests.get(nist_url, params=params, headers=headers)
@@ -42,7 +42,7 @@ def scrap_data(cas_ls, params, data_dir):
 		logging.info('Creating {} spectra for id: {}. Total spectra created {}'.format(params['Type'].lower(), cas_id, num_created))
 		with open(spectra_path +cas_id +'.jdx', 'wb') as data:
 			data.write(response.content)
-		if num_created == 20810:
+		if num_created == 18810:
 			break
 
 def scrap_inchi(cas_ls, params, data_dir):
