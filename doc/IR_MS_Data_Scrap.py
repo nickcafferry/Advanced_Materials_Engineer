@@ -40,8 +40,6 @@ def scrap_data(cas_ls, params, data_dir):
 		logging.info('Creating {} spectra for id: {}. Total spectra created {}'.format(params['Type'].lower(), cas_id, num_created))
 		with open(spectra_path +cas_id +'.jdx', 'wb') as data:
 			data.write(response.content)
-		while num_created%1000 == 0 and num_created != 0:
-			break
 
 def scrap_inchi(cas_ls, params, data_dir):
 	'''Collect Inchi keys from NIST database and store them in txt format.
@@ -108,21 +106,16 @@ cas_df.cas = cas_df.cas.str.replace('-', '')
 cas_ids = list(cas_df.cas)
 
 
-
-#n  = 0
-#logging.info('Scrap Mass spectra')
-#if args.scrap_MS:
-#	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
-#	scrap_data(cas_ids, params, data_dir)
-#	n = n+1
-#	if n%200 == 0:
-#		time.sleep(0)
-
-n = 0
-logging.info('Scrap IR spectra')
-if args.scrap_IR:
-	params={'JCAMP': '', 'Type': 'IR', 'Index': 0}
+logging.info('Scrap Mass spectra')
+if args.scrap_MS:
+	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
 	scrap_data(cas_ids, params, data_dir)
+
+#n = 0
+#logging.info('Scrap IR spectra')
+#if args.scrap_IR:
+#	params={'JCAMP': '', 'Type': 'IR', 'Index': 0}
+#	scrap_data(cas_ids, params, data_dir)
 
 #n = 0
 #logging.info('Scrap InChi keys')
