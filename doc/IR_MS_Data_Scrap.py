@@ -110,10 +110,10 @@ cas_df.cas = cas_df.cas.str.replace('-', '')
 cas_ids = list(cas_df.cas)
 
 
-logging.info('Scrap Mass spectra')
-if args.scrap_MS:
-	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
-	scrap_data(cas_ids, params, data_dir)
+#logging.info('Scrap Mass spectra')
+#if args.scrap_MS:
+#	params = params={'JCAMP': '',  'Index': 0, 'Type': 'Mass'}
+#	scrap_data(cas_ids, params, data_dir)
 
 #n = 0
 #logging.info('Scrap IR spectra')
@@ -121,11 +121,9 @@ if args.scrap_MS:
 #	params={'JCAMP': '', 'Type': 'IR', 'Index': 0}
 #	scrap_data(cas_ids, params, data_dir)
 
-#n = 0
-#logging.info('Scrap InChi keys')
-#if args.scrap_InChi:
-#	params={}
-#	scrap_inchi(cas_ids, params, data_dir)
-#	n = n+1
-#	if n%200 == 0:
-#		time.sleep(20)
+
+logging.info('Scrap InChi keys')
+if args.scrap_InChi:
+	params={}
+	scrap_inchi(cas_ids, params, data_dir)
+
