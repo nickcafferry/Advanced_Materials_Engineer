@@ -52,8 +52,6 @@ jobs:
          echo "---------------------------------------------"
          
          cd ./data/
-         wget https://anaconda.org/conda-forge/rdkit/2021.09.2/download/win-64/rdkit-2021.09.2-py39hfadf033_0.tar.bz2
-         tar -xvf rdkit-2021.09.2-py39hfadf033_0.tar.bz2
          
          echo "transporting new outputs to artifacts..."
          cp -r /home/runner/work/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/ /home/runner/work/Advanced_Materials_Engineer/output/
