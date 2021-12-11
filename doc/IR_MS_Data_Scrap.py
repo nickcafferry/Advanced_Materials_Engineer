@@ -64,14 +64,12 @@ def scrap_inchi(cas_ls, params, data_dir):
 
 		for cas_id in cas_ls:
 			params['GetInChI'] = 'C' + cas_id
-			if num_created <=1000:
-				continue
 			response = requests.get(nist_url, params=params, headers=headers)
 			num_created+=1
 			logging.info('Creating InChi key for id: {}. Total keys created {}'.format(cas_id, num_created))
 			content = '{}\t{}\n'.format(cas_id,response.content.decode("utf-8"))
 			file.write(content)
-			if num_created == 2000:
+			if num_created <= 2000:
 				break
 	
 
