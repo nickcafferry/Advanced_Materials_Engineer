@@ -127,4 +127,3 @@ logging.info('Scrap InChi keys')
 if args.scrap_InChi:
 	params={}
 	scrap_inchi(cas_ids, params, data_dir)
-
