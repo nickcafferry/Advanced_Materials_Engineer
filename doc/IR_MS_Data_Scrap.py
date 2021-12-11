@@ -69,7 +69,7 @@ def scrap_inchi(cas_ls, params, data_dir):
 			logging.info('Creating InChi key for id: {}. Total keys created {}'.format(cas_id, num_created))
 			content = '{}\t{}\n'.format(cas_id,response.content.decode("utf-8"))
 			file.write(content)
-			if num_created <= 2000:
+			if num_created > 2000:
 				break
 	
 
