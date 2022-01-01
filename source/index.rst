@@ -102,11 +102,11 @@ Content
    
    06/Chapter_6_Potential_Impact_of_e-Cigarette_Usage
 
-Heating Technology
-------------------
-
-.. raw:: html
-   :file: Purlava_Particle.html
+.. toctree::
+   :maxdepth: 5
+   :caption: Regenerated Cellulose Fibers
+   
+   Regenerated_Cellulose_Fibers
    
    
 License
