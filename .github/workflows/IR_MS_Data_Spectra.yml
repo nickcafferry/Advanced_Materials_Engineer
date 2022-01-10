@@ -1,4 +1,11 @@
 #cp ./data/ms /home/runner/work/Advanced_Materials_Engineer/doc/data/
+#         pip3 install --upgrade pip
+#         pip3 install wheel
+#         pip3 install requests
+#         pip3 install pandas
+#         pip3 install -U scikit-learn
+#         python3.8 -m pip install -U pymupdf
+#         python3.8 IR_MS_Data_Scrap.py
 name: ChemName2CID
 
 on:
@@ -35,17 +42,11 @@ jobs:
     - name: running .py file
       run: |
          echo "---------------------------------------------"
-         cd doc/
-         export PATH="$PATH:/home/runner/.local/bin:/home/runner/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/"
-         pip3 install --upgrade pip
-         pip3 install wheel
-         pip3 install requests
-         pip3 install pandas
-         pip3 install -U scikit-learn
-         python3.8 -m pip install -U pymupdf
-         python3.8 IR_MS_Data_Scrap.py
+         cd doc/data/
+         export PATH="$PATH:/home/runner/.local/bin:/home/runner/Advanced_Materials_Engineer/Advanced_Materials_Engineer/doc/data/"
          ls
 
+         wget -O 1.zip https://ld.iobit.com/freedownload/affdbfreedownload/downloadRef.php?aff=71426&ref=n01100643usb-serial-controller-d-driver-windows-10-64-bit_EN
          echo "recording information already unpacked!"
          echo "Show the path of this file:"
          pwd
